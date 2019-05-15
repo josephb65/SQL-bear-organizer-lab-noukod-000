@@ -1,9 +1,9 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
-('Joe Black', 2, 'M', 'Black', 'cool', '1'),
-('Jeanane cowld', 3, 'F', 'Blue pink', 'cool', '1'),
-('Jhon snow', 6, 'M', 'white', 'Blue and gray', 'wrong', '1'),
-('Bob Sponger', 1, 'M', 'white and black', 'wrong', '1'),
-('Katt Joub', 3, 'F', 'black', 'wrong', '0'),
-('Minorista', 2, 'M', 'black', 'wrong', '1'),
-('Bobby spider', 2, 'M', 'black', 'wrong', '1'),
-(NULL, NULL, NULL, NULL, NULL, NULL)
+('Mr. Chocolate', 2, 'male', 'white', 'cool', '1'),
+('Rowdy', 3, 'male', 'white', 'cool', '1'),
+('Tabitha', 1, 'female', 'white', 'cool', '1'),
+('Sergeant Brown', 1, 'male', 'white and black', 'wrong', '1'),
+('Melissa', 1, 'female', 'black', 'wrong', '0'),
+('Grinch', 2, 'male', 'black', 'wrong', '1'),
+('Wendy', 2, 'male', 'black', 'wrong', '1'),
+(NULL, NULL, NULL, NULL, NULL, NULL);

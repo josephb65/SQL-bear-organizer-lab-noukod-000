@@ -1,7 +1,7 @@
 create table bears (
   name text,
   age integer,
-  gender varchar(1),
+  gender text,
   color text,
   temperament text,
   alive INTEGER,

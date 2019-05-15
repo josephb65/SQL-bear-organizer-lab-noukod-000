@@ -1,9 +1,9 @@
-CREATE TABLE bears (
-  name TEXT,
-  age INTEGER,
-  gender TEXT,
-  color TEXT,
-  temperament TEXT,
+create table bears (
+  name text,
+  age integer,
+  gender varchar(1),
+  color text,
+  temperament text,
   alive INTEGER,
   id INTEGER PRIMARY KEY
 );
